@@ -13,5 +13,5 @@ function insert(num){
   }
   
   function back(){
-    textview.value -= textview.value
+    textview.value = textview.value.slice(0,-1)
   }
