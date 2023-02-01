@@ -10,5 +10,5 @@
   [![Javascript Badge](https://img.shields.io/badge/-javascript-white?style=for-the-badge&labelColor=white&logo=javascript&logoColor=yellow)](#)
  
 
-## 🚀 [LiVE PROJECT LINK](https://subtle-strudel-f2556f.netlify.app/) 
+## 🚀 [LiVE PROJECT LINK](https://tourmaline-marzipan-3be99d.netlify.app) 
 ![calculator](./calculator.png)
